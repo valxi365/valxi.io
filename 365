@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Valxi Viajes</title>
+</head>
+<body>
+  <header>
+    <h1>Bienvenido a Valxi Viajes</h1>
+    <nav>
+      <ul>
+        <li><a href="#destinos">Destinos</a></li>
+        <li><a href="#consejos">Consejos de viaje</a></li>
+        <li><a href="#sobre-nosotros">Sobre nosotros</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="destinos">
+      <h2>Destinos populares</h2>
+      <p>Descubre los destinos más populares de todo el mundo y planifica tu próximo viaje con Valxi Viajes.</p>
+    </section>
+
+    <section id="consejos">
+      <h2>Consejos de viaje</h2>
+      <p>Aprovecha nuestros consejos de viaje para que tu próximo viaje sea sin problemas y disfrutes al máximo de la aventura.</p>
+    </section>
+
+    <section id="sobre-nosotros">
+      <h2>Sobre nosotros</h2>
+      <p>Somos un equipo apasionado de viajeros que quiere ayudarte a planificar y vivir tus mejores viajes. Conoce más acerca de Valxi Viajes.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; Valxi Viajes 2023</p>
+  </footer>
+</body>
+</html>
